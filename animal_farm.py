@@ -31,4 +31,3 @@ if __name__ == '__main__':
         print('Pass at least one animal type!')
         sys.exit(1)
     main(sys.argv[1:])
-                
